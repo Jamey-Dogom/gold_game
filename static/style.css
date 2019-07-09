@@ -1,0 +1,70 @@
+.overflow-auto{
+    height: 100px;
+    overflow-y: scroll;
+    width: 100%;
+    border: solid 1px black;
+}
+
+
+.act {
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: left;
+    font-size: 12px;
+}
+
+.mg-bt10 {
+    margin-bottom: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    align-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.mg-bt5 {
+    margin-bottom: 5%;
+    margin-left: -80px;
+}
+
+.mg-top5 {
+    margin-top: 5%;
+}
+
+.ilb {
+    display: inline-block;
+}
+
+.boxing {
+    height: 10%;
+    width: 20%;
+    margin-left: 6%;
+    border: solid 2px black;
+    padding: 30px 60px;
+    
+}
+
+.brown{
+background-color: #996633;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.blue {
+    background-color: #0099ff;
+}
+
+.red {
+    background-color: red;
+}
+
+.t-al {
+    text-align: left;
+}
